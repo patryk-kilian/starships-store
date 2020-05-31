@@ -3,6 +3,8 @@ import ApolloClient from 'apollo-boost';
 import { ApolloProvider } from '@apollo/react-hooks';
 import StarshipsContainer from './containers/StarshipsContainer';
 import GlobalStyles from './components/styles/GlobalStyles';
+import Header from './components/Header';
+import CartProvider from './context/cart';
 
 function App() {
   const client = new ApolloClient({
@@ -11,10 +13,13 @@ function App() {
 
   return (
     <ApolloProvider client={client}>
-      <GlobalStyles />
-      <main>
-        <StarshipsContainer />
-      </main>
+      <CartProvider>
+        <GlobalStyles />
+        <Header />
+        <main>
+          <StarshipsContainer />
+        </main>
+      </CartProvider>
     </ApolloProvider>
   );
 }
