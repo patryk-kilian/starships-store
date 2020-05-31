@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/starship-store/static/js/main.aee7a631.chunk.js",
-    "main.js.map": "/starship-store/static/js/main.aee7a631.chunk.js.map",
-    "runtime-main.js": "/starship-store/static/js/runtime-main.16a3490d.js",
-    "runtime-main.js.map": "/starship-store/static/js/runtime-main.16a3490d.js.map",
-    "static/js/2.1c3b036f.chunk.js": "/starship-store/static/js/2.1c3b036f.chunk.js",
-    "static/js/2.1c3b036f.chunk.js.map": "/starship-store/static/js/2.1c3b036f.chunk.js.map",
-    "index.html": "/starship-store/index.html",
-    "precache-manifest.25167f64e9ce0c4754b9b538dea6b50a.js": "/starship-store/precache-manifest.25167f64e9ce0c4754b9b538dea6b50a.js",
-    "service-worker.js": "/starship-store/service-worker.js",
-    "static/js/2.1c3b036f.chunk.js.LICENSE.txt": "/starship-store/static/js/2.1c3b036f.chunk.js.LICENSE.txt"
+    "main.js": "/starships-store/static/js/main.aee7a631.chunk.js",
+    "main.js.map": "/starships-store/static/js/main.aee7a631.chunk.js.map",
+    "runtime-main.js": "/starships-store/static/js/runtime-main.2b9241ff.js",
+    "runtime-main.js.map": "/starships-store/static/js/runtime-main.2b9241ff.js.map",
+    "static/js/2.f5e85a51.chunk.js": "/starships-store/static/js/2.f5e85a51.chunk.js",
+    "static/js/2.f5e85a51.chunk.js.map": "/starships-store/static/js/2.f5e85a51.chunk.js.map",
+    "index.html": "/starships-store/index.html",
+    "precache-manifest.42f5fd585aa5d9a29401f2e8eaab0e6b.js": "/starships-store/precache-manifest.42f5fd585aa5d9a29401f2e8eaab0e6b.js",
+    "service-worker.js": "/starships-store/service-worker.js",
+    "static/js/2.f5e85a51.chunk.js.LICENSE.txt": "/starships-store/static/js/2.f5e85a51.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.16a3490d.js",
-    "static/js/2.1c3b036f.chunk.js",
+    "static/js/runtime-main.2b9241ff.js",
+    "static/js/2.f5e85a51.chunk.js",
     "static/js/main.aee7a631.chunk.js"
   ]
 }
