@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/starship-store/static/js/main.aee7a631.chunk.js",
+    "main.js.map": "/starship-store/static/js/main.aee7a631.chunk.js.map",
+    "runtime-main.js": "/starship-store/static/js/runtime-main.16a3490d.js",
+    "runtime-main.js.map": "/starship-store/static/js/runtime-main.16a3490d.js.map",
+    "static/js/2.1c3b036f.chunk.js": "/starship-store/static/js/2.1c3b036f.chunk.js",
+    "static/js/2.1c3b036f.chunk.js.map": "/starship-store/static/js/2.1c3b036f.chunk.js.map",
+    "index.html": "/starship-store/index.html",
+    "precache-manifest.25167f64e9ce0c4754b9b538dea6b50a.js": "/starship-store/precache-manifest.25167f64e9ce0c4754b9b538dea6b50a.js",
+    "service-worker.js": "/starship-store/service-worker.js",
+    "static/js/2.1c3b036f.chunk.js.LICENSE.txt": "/starship-store/static/js/2.1c3b036f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16a3490d.js",
+    "static/js/2.1c3b036f.chunk.js",
+    "static/js/main.aee7a631.chunk.js"
+  ]
+}
